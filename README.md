@@ -1,3 +1,31 @@
 # Design Pattern
-- Singleton factory pattern
-    - use this link 
+Design pattern mainly divided into 3 parts
+- Creational : The pattern is all about object creation
+    -  Singleton
+    - Abstract Factory
+    - Factory Method
+    - Builder
+    - Object Pool
+    - Prototype.
+- Structural : This pattern is about organizing classes/objects in larger structure to provide new functionality
+    - Adapter
+    - Bridge
+    - Composite
+    - Decorator
+    - Facade
+    - Flyweight
+    - Private Class Data
+    - Proxy
+- Behavioural : This pattern abstract the action which we are going to take on object.
+    -  Chain of responsibility
+    - Command
+    - Interpreter
+    - Iterator
+    - Mediator
+    - Memento
+    - Null Object
+    - Observer
+    - State
+    - Strategy
+    - Template method
+    - Visitor
